@@ -19,15 +19,5 @@ Neste ponto, você está pronto para fazer suas alterações! Sinta-se à vontad
 Seu patch deve seguir as mesmas convenções e passar as mesmas verificações de qualidade de código do resto do projeto.
 
 6. Faça um pedido pull
-Neste ponto, você deve voltar à sua filial master e certificar-se de que esteja atualizado com a ramificação master do Active Admin:
-
-git remote add upstream git@github.com: activeadmin / activeadmin.git
-git checkout master
-git pull upstream master
-Em seguida, atualize seu ramo de recursos de sua cópia local do mestre e empurre-o!
-
-git checkout <nome-do-blas>
-git rebase master
-git push --set-upstream origem <nome-do-blash>
-Finalmente, vá para o GitHub e faça um pull request : D
+Neste ponto, você deve voltar à sua filial master e certificar-se de que esteja atualizado com a ramificação master.
 

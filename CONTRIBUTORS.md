@@ -8,4 +8,5 @@ Nome dos voluntários
 
 ## Dev Team.
 [Leandro Brandão](https://github.com/LeandroMeuGitHub) <br>
-[Neverson Bento da Silva](https://github.com/Dersaun)
+[Neverson Bento da Silva](https://github.com/Dersaun)<br>
+[Rui Bernardes Pereira](https://github.com/vortexti)<br>

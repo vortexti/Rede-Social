@@ -1,4 +1,4 @@
-Contribuindo
+# Contribuindo
 Primeiramente, obrigado por considerar contribuir para o Rede Social. São pessoas como você que tornam o Rede Social um otimo projeto.
 
 1. Para onde eu vou daqui?

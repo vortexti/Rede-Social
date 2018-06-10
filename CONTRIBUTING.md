@@ -1,5 +1,5 @@
 # Contribuindo
-Primeiramente, obrigado por considerar contribuir para o Rede Social. São pessoas como você que tornam o Rede Social um otimo projeto.
+## Primeiramente, obrigado por considerar contribuir para o Rede Social. São pessoas como você que tornam o Rede Social um otimo projeto.
 
 1. Para onde eu vou daqui?
 Se você notou um bug ou tem uma pergunta que não pertence à lista de discussão ou ao Stack Overflow , pesquise o rastreador de problemas para ver se alguém na comunidade já criou um ticket. Se não, vá em frente e faça um !

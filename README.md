@@ -6,4 +6,5 @@ No futuro esse projeto se dividirá em Rede social para desenvolvedores e Rede s
 [CONTRIBUTORS.md](https://github.com/GrupoDeEstudosOpenSource/Rede-Social/blob/master/CONTRIBUTORS.md)
 ### Como contribuir.
 [CONTRIBUTING.md](https://github.com/GrupoDeEstudosOpenSource/Rede-Social/blob/master/CONTRIBUTING.md)
+### [Site do projeto](https://grupodeestudosopensource.github.io/Rede-Social/)
 
